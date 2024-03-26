@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Work Experience
-**Data Scientist @ Jaggar** Feb 2021 - Present
+**Data Scientist @ Jaggaer** Feb 2021 - Present
 - Engineered comprehensive end-to-end pipelines for automatic training, data-quality control, and inference within citizen-labeling tools, enabling labelers to independently label, train, infer, and extract data without the need for Data Science Experts. Used AWS Lambda, Sagemaker and Step Functions.
 - Implemented strict mislabeled data correction using confident-learning techniques, resulting in an 85% reduction in the reviewing time of labeled data and an improvement in data quality for training.
 - Constructed eﬃcient Document Title Extraction models with an F1-score of 90% and parallelly reduced latency with a feature-engineered ML model.
