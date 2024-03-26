@@ -28,15 +28,11 @@
 - Implemented SSD Inception V2 model, to count the number of products in the store shelf after detecting and localizing the product on the shelf images, accurately counted the number of products, with mAP @ IOU(0.5:0.95) as 0.6.
 
 ### Skills
-**Coding Proficiency:** Demonstrated expertise by solving over 480 Algorithms and Data Structure problems using Python on LeetCode, showcasing strong problem-solving and coding skills while continuously enhancing algorithmic proficiency.
-
-**Machine Learning:** Supervised Learning, Decision Trees, Bagging, Boosting, Logistic Regression, Support Vector Machines and Principal Component Analysis.
-
-**Deep Learning:** Computer Vision, Object Detection, Natural Language Processing (NLP), Word Embedding, Named Entity Recognition (NER), Attention, Transformers, Large Language Models (LLM).
-
-**Statistics:** EDA, Probabilty Distributions
-
-**Tools and Packages:** Python, Scikit-learn, Pytorch, AWS, REST API, OpenCV, Multiprocessing, Docker, Kubernetes. Generative AI: AWS Bedrock, Ollama, LlamaIndex, Vector database, Langchain, OpenAI.
+- **Coding Proficiency:** Demonstrated expertise by solving over 480 Algorithms and Data Structure problems using Python on LeetCode, showcasing strong problem-solving and coding skills while continuously enhancing algorithmic proficiency.
+- **Machine Learning:** Supervised Learning, Decision Trees, Bagging, Boosting, Logistic Regression, Support Vector Machines and Principal Component Analysis.
+- **Deep Learning:** Computer Vision, Object Detection, Natural Language Processing (NLP), Word Embedding, Named Entity Recognition (NER), Attention, Transformers, Large Language Models (LLM).
+- **Statistics:** EDA, Probabilty Distributions
+- **Tools and Packages:** Python, Scikit-learn, Pytorch, AWS, REST API, OpenCV, Multiprocessing, Docker, Kubernetes. Generative AI: AWS Bedrock, Ollama, LlamaIndex, Vector database, Langchain, OpenAI.
 
 ### MOOCs
 - Neural Networks and Deep Learning, **Coursera**
